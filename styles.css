@@ -1,0 +1,45 @@
+.skill {
+    display: inline-block;
+    padding: 25px;
+}
+
+.skill-image {
+    height: 125px;
+    width: 200px;
+}
+
+#skill-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+#nav-bar{
+    background-color: #333333;
+    margin: 0;
+    padding: 0;
+    height: 30px;
+    overflow: hidden;
+}
+
+.nav-link {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    text-align: center;
+}
+
+.nav-link:hover {
+    background-color: lightgray;
+    color: black;
+}
+
+.nav-link:active{
+    background-color: #333333;
+    color: white;
+}
+
+.nav-logos {
+    height: 20px;
+}
